@@ -1,0 +1,23 @@
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# 训练产物
+checkpoints/
+wandb/
+logs/
+
+# 缓存
+.cache/
+*.npz
+*.pt
+
+# 系统
+.DS_Store

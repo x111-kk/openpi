@@ -1,0 +1,3 @@
+[submodule "references/openpi"]
+	path = references/openpi
+	url = https://github.com/Physical-Intelligence/openpi.git
