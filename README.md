@@ -2,7 +2,7 @@
 
 > 面向 **VLA（Vision-Language-Action）小白** 的 Physical Intelligence (π) / openpi 系统化深度参考库。
 >
-> 把官方源码 + 全套中文逐主题深化文档放在同一个仓库里，开 IDE 即可"边读文档边跳转源码"。
+> 把官方源码 + 全套中文逐主题深化文档放在同一个仓库里，
 
 ---
 
